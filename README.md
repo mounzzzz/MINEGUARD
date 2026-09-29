@@ -1,4 +1,7 @@
 # MINEGUARD
+LIVE DASHBOARD:MineGuard – Zero-Sight Mine Vehicle Safety Dashboard
+[<img width="892" height="81" alt="image" src="https://github.com/user-attachments/assets/64d6f269-2fd0-4514-879c-d0f0cc4a7029" />](https://deploy-dream-45-h9t1enutt-mounzzzz.vercel.app/)
+
 MineGuard is an intelligent safety and command dashboard for SIH26007, designed to enable safe and efficient mine-vehicle operations in fog and low-visibility conditions in open-cast iron ore mines.
 AI-powered mine vehicle safety and monitoring system for foggy, low-visibility open-cast iron ore operations.
 # MineGuard – Zero-Sight Mine Vehicle Safety Dashboard
